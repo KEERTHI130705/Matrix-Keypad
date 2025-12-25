@@ -118,5 +118,6 @@ The column number acts as an offset in the lookup table.
 This project demonstrates the practical implementation of a keypad interface with the 8051 microcontroller, covering **row–column scanning**, **lookup table usage**, **ASCII handling**, and **basic arithmetic operations**.  
 It serves as a strong foundation for understanding human–machine interfacing using microcontrollers.
 
+#Resource book: 8051 Microcontroller and Embedded Systems
 ---
 
